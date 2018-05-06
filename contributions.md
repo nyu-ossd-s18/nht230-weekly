@@ -18,5 +18,5 @@
 | Thirteen | OpenStreetMap | I added an NYU dorm to the map |
 | Thirteen | OpenStreetMap | I added a coffee shop to the map |
 | Thirteen | OpenStreetMap | I added a bakery to the map |
-| Thirteen | OpenStreetMap | I added a bar to the [map] (https://www.openstreetmap.org/user/NatalieToto/history#map=6/39.758/-76.575) |
+| Thirteen | OpenStreetMap | I added a bar to the [map](https://www.openstreetmap.org/user/NatalieToto/history#map=6/39.758/-76.575) |
 
